@@ -1,0 +1,8 @@
+1. Repositorio
+Es como la carpeta maestra o el cajón donde guardas todo tu proyecto. La gran ventaja es que no solo guarda tus archivos actuales, sino toda la historia de cambios, así que nunca pierdes nada importante.
+
+2. Commit
+Es como darle a "guardar partida" en un videojuego o tomarle una foto a tus archivos. Dejas un registro exacto de cómo estaba todo en ese momento, por si luego dañas algo y necesitas devolverte a cuando todo funcionaba.
+
+3. Push
+Es básicamente la acción de "subir a la nube". Agarras todos los cambios que hiciste en tu compu y los mandas a internet (como a GitHub) para respaldarlos y compartirlos con tu equipo.
