@@ -1,0 +1,7 @@
+Algoritmo pra buscar informacion Confiable en internet: 
+
+1. Establecer el tema que vamos a buscar
+2. Ingresar al navegador para buscar la informacion
+3. Escribimos el tema que vamos buscar
+4. Revisar que la informacion encontrada sea confiable
+5. Enviar informacion a la persona que queremos. 
