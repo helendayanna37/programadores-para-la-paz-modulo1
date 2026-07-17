@@ -1,0 +1,6 @@
+Comandos Utilizados Actividadeds Semana 2: 
+
+- Mkdir: Crear una carpeta nueva
+- Touch: Crear un archivo nuevo
+- Ls: Listar las carpetas de mi ubicacion
+- pwd: Mostar mi ubicacion en el computador
